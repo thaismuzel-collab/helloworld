@@ -1,0 +1,27 @@
+h2 {
+        color: darkgoldenrod;
+}
+
+body{
+
+    background-color: darkblue;
+    color: bisque;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+
+    border-bottom: 1px solid white;
+    
+
+}
+
+footer{
+
+    border-top: 1px solid white;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
